@@ -4,3 +4,5 @@ chat app inventor
 # istallazione
 # manuale d'uso
 # collaboratori progetto
+Prof. Matteo Palitto (TPSIT - JCMAXWELL)
+Prof. Pietro Dimatteo (GPOI - JCMAXWELL)
