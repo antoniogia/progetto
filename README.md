@@ -2,13 +2,13 @@
 
 Applicazione CHAT per Android sviluppata con app inventor
 
-# descrizione
+# Descrizione
 
 Semplice applicazione sviluppata usando App Inventor con lo scopo didattico di presentare un esempio agli studenti di come gestire un progetto di sviluppo software.
 
 Il progetto viene gestito usando i concetti esposti nelle lezioni di GPOI.
 
-# installazione
+# Installazione
 
 Quando penseremo di aver completato tutta o una porzione della nostra app possiamo attivare la funzione di debugging per verificarne all'istante la funzionalità.
 
@@ -26,9 +26,9 @@ Questa funzione ci scaricherà il file .apk sul nostro computer, all'interno del
 
 Nel caso in cui installeremo la nostra APP senza avvalerci del Play Store, sarà indispensabile attivare sul dispositivo, la funzionalità di accettare .apk da sorgenti sconosciute, al termine dell'installazione potremo per sicurezza disattivare tale funzionalità.
 
-# manuale d'uso
+# Manuale d'uso
 
-# collaboratori progetto
+# Collaboratori progetto
 
 Prof. Matteo Palitto (TPSIT - JCMAXWELL)
 
