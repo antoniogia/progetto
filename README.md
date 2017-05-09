@@ -17,10 +17,10 @@ Dal menù Connect, selezionare “All Companion”, apparirà un qrcode, a quel 
 Una volta terminate le attività di debugging, possiamo prelevare l'APP tramite il menù “Build” tramite due funzioni:
 
 •	App (Provide QR code for .apk)
+
 •	App (Save .apk to my computer)
 
-L'installazione può essere fatta utilizzando la stessa app che abbiamo già usato per il debugging “MIT AI2 Companion”, quindi cliccando sul bottone “scan QR code” e facendo leggere il codice che apparirà a video
-dopo aver atteso il termine della compilazione. 
+L'installazione può essere fatta utilizzando la stessa app che abbiamo già usato per il debugging “MIT AI2 Companion”, quindi cliccando sul bottone “scan QR code” e facendo leggere il codice che apparirà a video dopo aver atteso il termine della compilazione. 
 
 Questa funzione ci scaricherà il file .apk sul nostro computer, all'interno della cartella che sceglieremo, in questo modo potremo facilmente distribuirla su più dispositivi, pubblicarla su siti online e previo ulteriore trattamento e dopo esserci registrati, anche sul Play Store di Google.
 
